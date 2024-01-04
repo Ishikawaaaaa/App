@@ -1,4 +1,4 @@
-git https://github.com/Ishikawaaaaa/App.git
+git /env1/path/to/.gitkeep
 anaconda-client==1.7.2
 anaconda-navigator==2.0.3
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
