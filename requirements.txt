@@ -1,4 +1,4 @@
-git https://github.com/Ishikawaaaaa/App.git@master==1.2.3
+git https://github.com/Ishikawaaaaa/App.git
 anaconda-client==1.7.2
 anaconda-navigator==2.0.3
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
